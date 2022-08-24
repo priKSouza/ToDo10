@@ -1,0 +1,10 @@
+.button {
+  width: 140px;
+  height: 60px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+  background-color: var(--secondary);
+  color: var(--light-violet);
+  border: none;
+  border-radius: 40px;
+}
