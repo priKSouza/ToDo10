@@ -1,7 +1,7 @@
 .button {
   width: 110px;
   height: 40px;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 18px;
   background-color: var(--secondary);
   color: var(--light-violet);
