@@ -7,13 +7,13 @@
 }
 
 :root {
-  --primary: #4b1165;
-  --secondary: #245e95;
-  --light-violet: #ebbfff;
+  --primary: #303030;
+  --secondary: #FFF;
+  --light-violet: #5E5E5E;
   --light-blue: #cadef1;
-  --grey: #9f969f;
-  --black: #292429;
-  --white: #fafaff;
+  --grey: #FFF;
+  --black: #000000;
+  --white: #C6C6C6;
 
   width: 100%;
   min-height: 100vh;

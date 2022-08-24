@@ -50,7 +50,7 @@ const FormTwo = () => {
         type: "error",
         message: "Por favor, preencha o CEP!",
       });
-    } else if (values.cep.length != 8) {
+    } else if (values.cep.length === 7) {
       return setErrors({
         type: "error",
         message: "CEP inválido!",

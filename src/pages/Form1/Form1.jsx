@@ -42,9 +42,6 @@ const FormOne = () => {
       phone: values.phone,
     });
 
-    console.log(values);
-    console.log(errors);
-
     navigate("/dados-2");
   };
 
